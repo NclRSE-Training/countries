@@ -1,0 +1,2 @@
+- Population : 7 billion
+- Capital: Himalazias
