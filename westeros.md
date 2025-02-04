@@ -1,2 +1,2 @@
-Population: 50 million
-Capital: King's Landing
+Population: 50 million  
+Capital: King's Landing  
