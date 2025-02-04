@@ -1,0 +1,2 @@
+- Population : 1.34 million
+- Capital: Tallinn
