@@ -1,0 +1,3 @@
+- Population: 5.4 million
+- Capital: Edinburgh
+- Weather: Windy
