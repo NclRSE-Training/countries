@@ -1,2 +1,3 @@
 - Population : 3.5 billion
 - Capital: Balamory
+- Terrain: Dusty
