@@ -1,2 +1,2 @@
-Population: 84.48 million
-Capital: Berlin
+- Population : 84.48 million
+- Capital: Berlin
