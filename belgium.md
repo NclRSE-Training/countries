@@ -1,2 +1,3 @@
 - good waffles
 - official languages: Dutch, French, German
+- best city for 1day tourism: Brugge
