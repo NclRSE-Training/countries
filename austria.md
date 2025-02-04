@@ -7,3 +7,4 @@
   * Arnold Schwarzenegger (actor, politician)
   * Adolf Hitler (genocidal dictator)
   * von Trapp Family (*The Sound of Music*)
+- Location: Central Europe
