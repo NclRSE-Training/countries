@@ -1,2 +1,2 @@
-- Population : 328.2 million
-- Capital: Washington D.C.
+- Population : 3.5 billion
+- Capital: Balamory
