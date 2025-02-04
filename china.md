@@ -1,0 +1,2 @@
+- Population : 13000 million
+- Capital: Beijing
