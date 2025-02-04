@@ -1,2 +1,3 @@
 - Population 98.86 million
 - Capitol Hanoi
+- GDP growth rate: 5.0% annual change
