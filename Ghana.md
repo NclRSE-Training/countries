@@ -1,0 +1,2 @@
+- Population : 20.2 million
+- Capital: Accra
