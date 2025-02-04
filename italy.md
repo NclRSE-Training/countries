@@ -1,2 +1,3 @@
 - Population : 58.76 million
 - Capital: Roma
+- there are a total of 20 regions
