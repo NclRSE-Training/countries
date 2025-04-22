@@ -1,0 +1,2 @@
+- Population : 5.6 million
+- Capital: Helsinki
