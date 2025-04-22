@@ -1,0 +1,2 @@
+- Population : 34,566,328
+- Capital: Riyadh
