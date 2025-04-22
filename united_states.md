@@ -1,2 +1,3 @@
 - Population : 340.1 million
 - Capital: Washington D.C.
+- GDP: 27.3 trillion
