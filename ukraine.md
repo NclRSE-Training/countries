@@ -1,0 +1,3 @@
+- Population : 33.4 million
+- Capital: Kyiv
+- GDP: 178.8 billion USD
