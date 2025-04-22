@@ -1,2 +1,3 @@
 - Population : 1.438 billion
 - Capital: New Delhi
+- GDP : 3.568 trillion
