@@ -1,2 +1,3 @@
 - Population : 5.6 million
 - Capital: Helsinki
+- GDP: 299,836
