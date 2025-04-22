@@ -1,2 +1,4 @@
-Population: 236 Million
-Capital: Abuja
+
+- Population : 236 million
+- Capital: Abuja
+
