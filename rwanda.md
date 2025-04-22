@@ -1,0 +1,2 @@
+- Capital: Kigali
+- Population: 13.6 million
