@@ -1,2 +1,3 @@
 - Population : 712,651
-- Capital: 
+- Capital: Macao
+- GDP: $92.885 billion
