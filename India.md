@@ -1,0 +1,2 @@
+- Population : 1.438 billion
+- Capital: New Delhi
