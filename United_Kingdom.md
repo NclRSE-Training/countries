@@ -1,0 +1,3 @@
+- Population : 68.3 million
+- Capital: London
+- GDP: $4.282 trillion
