@@ -1,0 +1,2 @@
+- Population : 28.5 million
+- Capital: Caracas
