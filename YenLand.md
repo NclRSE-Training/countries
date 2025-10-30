@@ -1,0 +1,2 @@
+- Population : 1 million
+- Capital: Happy place
