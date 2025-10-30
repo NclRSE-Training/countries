@@ -1,0 +1,2 @@
+- Population : 12 million
+- Capital: Athens(Booo)
