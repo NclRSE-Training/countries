@@ -1,1 +1,1 @@
-- Population : 1x mario, 1x luigi, 1x princess peach, 57348x toads
+- Population : 1x mario, 1x luigi, 1x princess peach, 57348x toads, 9830315x goombas
