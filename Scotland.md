@@ -1,2 +1,3 @@
 - Population : 5.5 million
 - Capital: Edinburgh
+- Largest city: Glasgow 
